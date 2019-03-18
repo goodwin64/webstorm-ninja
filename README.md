@@ -60,6 +60,8 @@ https://github.com/uber/react-map-gl
 - smart git fetch (`Ctrl + T`)
 - git history log
 - git conflicts
+merge-conflicts-example.html
+
 - git stash/shelf
 - changes in lines: green - new; blue - changed; triangle - removed
 
